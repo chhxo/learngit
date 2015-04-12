@@ -421,3 +421,4 @@ rule replicated_ruleset {
 }
 
 # end crush map
+# test map
